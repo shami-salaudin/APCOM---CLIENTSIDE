@@ -1,0 +1,17 @@
+{
+    "short_name": "React App",
+    "name": "React App PWA",
+    "icons": [
+       
+      
+        {
+          "src": "aphem.ico",
+          "type": "image/ico",
+          "sizes": "512x512"
+        }
+      ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
